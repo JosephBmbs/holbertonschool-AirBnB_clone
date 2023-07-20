@@ -1290,9 +1290,9 @@ File: 103-index.html, styles/103-common.css, styles/103-header.css, styles/103-f
 
 ---
 
-## Authors Of ths repo
+## Author Of ths repo
 Youssef Saad
- 
+
 ### Oroginal owners the readme file
 * Pierre Beaujuge
 * Brendan Eliason
