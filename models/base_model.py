@@ -1,4 +1,6 @@
-# models/base_model.py
+#!/usr/bin/python3
+"""Defines the BaseModel class."""
+
 from uuid import uuid4
 from datetime import datetime
 
